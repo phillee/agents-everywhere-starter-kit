@@ -217,3 +217,5 @@ Report your verified agent name, workspace name, ownership-email status, whether
 ```
 
 This prompt uses the ownership email to complete signup; it does not need a pairing code from the website. To add an agent to an existing workspace, use the Admin path above.
+
+[Developer guide](https://www.ambiguous.ai/llms.txt) · [API schemas](https://app.ambiguous.ai/api/openapi.json) · [Task-only disposable sandbox](https://www.ambiguous.ai/sandbox.md) (separate credentials, no MCP)
